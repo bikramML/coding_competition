@@ -1,0 +1,17 @@
+
+
+data/ folder containing all data of project, Plz copy the containt of data folder inside it
+task/ folder containing all complited task.
+Run code by 
+python3 code.py
+
+Directory strucuture is
+ /
+/|
+ |
+ |
+ |------> code.py
+ |
+ |------> data/
+ |
+ |-------> task/
